@@ -1,0 +1,23 @@
+{
+  "name": "dbcomponent",
+  "version": "1.0.0",
+  "description": "A component kit for dbapp's project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janostudio/dbcomponent.git"
+  },
+  "keywords": [
+    "component",
+    "kit"
+  ],
+  "author": "JanathonJiang <qinghuangniao@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janostudio/dbcomponent/issues"
+  },
+  "homepage": "https://github.com/janostudio/dbcomponent#readme"
+}
