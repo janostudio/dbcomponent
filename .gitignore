@@ -10,6 +10,7 @@ selenium-debug.log
 src/mock/node_modules
 element-variables.css
 sprites/
+DEV.md
 
 # Editor directories and files
 .idea
